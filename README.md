@@ -41,7 +41,7 @@ npm run dev
 ```
 
 ```
-Descargar y Configuar Docker
+Descargar y Configurar Docker
 
 https://docs.docker.com/desktop/install/mac-install/
 
